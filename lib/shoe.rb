@@ -10,4 +10,5 @@ class Shoe
     adidas = shoe.new("blah")
     blah.condition = "new"
     puts "The shoe has been repaired."
+  end
 end
