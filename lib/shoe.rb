@@ -7,7 +7,6 @@ class Shoe
   end
 
   def cobble
-    adidas = Shoe.new("blah")
     blah.condition = "new"
     puts "The shoe has been repaired."
   end
